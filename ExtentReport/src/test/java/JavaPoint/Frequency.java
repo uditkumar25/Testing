@@ -6,7 +6,7 @@ public class Frequency {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// Edit 1
+		// Edit 12
 		{
 	        int ci, i, j, k=0;
 	        String str, str1;
